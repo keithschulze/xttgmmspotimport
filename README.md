@@ -2,11 +2,11 @@
 Imaris XTension for importing spots and tracks from [TGMM](http://tgmm.sourceforge.net/) tracking data into Imaris.
 
 ## Requirements
-Imaris and XT Module
-Python 2.*
-numpy
-lxml
-[pIceImarisConnector](http://www.scs2.net/next/index.php?id=110)
+* Imaris and XT Module
+* Python 2.*
+* numpy
+* lxml
+* [pIceImarisConnector](http://www.scs2.net/next/index.php?id=110)
 
 ## Installation
 You will need Python. On Windows I recommend installing the [Anaconda](http://continuum.io/downloads) distribution as it makes it easier to get all the dependencies. For nix systems, you can generally use the distributed version of Python or install it using the your systems package manager. On OS X, I recommend [Homebrew](http://brew.sh).
