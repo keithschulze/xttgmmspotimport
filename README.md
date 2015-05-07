@@ -34,7 +34,7 @@ You will need to configure the XT module in Imaris to point to your Python execu
 1. Edit --> Preferences --> Custom Tools
 2. Point to 'Python application' field to your Python installation. Important: If you installed a virtualenv, you need to point Imaris to that.
 
-## Installing the iPython connect XTension
+## Installing the XTTGMMSpotImport XTension
 There are several ways one could do this, the aim is to get XTTGMMSpotImport.py file into a place where Imaris can find it. Perhaps the easiest way would be to clone this repo:
 ```
 cd ~/path/to/personal/imaris/xtensions
